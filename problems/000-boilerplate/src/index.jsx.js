@@ -3,7 +3,8 @@ const ReactDOM = require('react-dom');
 
 const mountDOMNode = document.querySelector('#js-react-app');
 
-// webpack html bundle
+// webpack
+require('./index.css');
 require('file?name=[name].[ext]!./index.html');
 
 ReactDOM.render(
