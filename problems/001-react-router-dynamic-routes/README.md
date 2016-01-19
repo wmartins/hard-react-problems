@@ -1,6 +1,6 @@
 # Dynamic Nested Routes
 
-[http://wmartins.github.io/hard-react-problems/problems/001-react-router-dynamic-routes/dist/#/news/news-1](DEMO)
+[DEMO](http://wmartins.github.io/hard-react-problems/problems/001-react-router-dynamic-routes/dist/#/news/news-1)
 
 When using AJAX to load dynamic content, it's a good idea to add a permanent
 link (or something like that) to associate with this content. React-router
