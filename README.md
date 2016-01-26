@@ -8,3 +8,4 @@ This repo aims to explain those problems, trying to find a good solution.
 ### React Router
 
 - [Dynamic nested routes](./problems/001-react-router-dynamic-routes/)
+- [Data inheritance](./problems/002-data-inheritance/)
